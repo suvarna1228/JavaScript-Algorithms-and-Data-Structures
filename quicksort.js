@@ -16,3 +16,4 @@ function quicksort(arr){
    const arr=[4,-7,3,-1,54,23];
    
    console.log(quicksort(arr));
+  //  o(n2)
